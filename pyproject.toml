@@ -1,9 +1,3 @@
-[tool.poetry]
-name = "ev-telema"
-version = "0.1.0"
-description = ""
-authors = ["Sumitomo Electric Industries, Ltd. <hems@info.sei.co.jp>"]
-
 [project]
 name = "ev-telema"
 version = "0.1.0"
